@@ -5,7 +5,7 @@ layout: page
 excerpt: Hello peeps, I'm computer engineer, living in Istanbul. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using forking simple theme.
 comments: false
 ---
-Yazılım yolculuğu üzerine dökümante amaçlı bu blog, jekyyl üzerinde çalışan <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a> adında ki temadan fork edilip, netlify'da host ediliyor, yazılımı takip etmeyi sever ama genellikle aklında çıkardı, ki yazmasının nedeni de bu.
+Yazılım yolculuğu üzerine dökümante amaçlı bu blog, jekyyl üzerinde çalışan <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a> adında ki temadan fork edilip, netlify'da host ediliyor, yazılımı takip etmeyi sever ama genellikle söz uçar yazı kalır der, ki yazmasının nedeni de bu.
 
 Sormak istediğin soru varsa, mail atabilirsin.
 
